@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1673273537 source:c:\users\paul\desktop\ip\bejan paul - samson corina\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<winbgim.h>
+	<windows.h>
+
+1673273536 source:c:\users\paul\desktop\1b3_electron_bejan_paul_samson_corina\bejan paul - samson corina\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<cstring>
+	<winbgim.h>
+	<windows.h>
+

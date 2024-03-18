@@ -1,0 +1,6 @@
+Sursa_de_alimentare
+1310 127
+2
+5 5
+25 25
+S
